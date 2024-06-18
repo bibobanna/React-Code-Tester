@@ -1,6 +1,6 @@
 # CodeTester
 
-CodeTester is a web application designed to run code snippets securely in isolated Docker containers. It supports multiple programming languages and provides real-time feedback on code execution.
+CodeTester is a web application designed to run code snippets securely in isolated Docker containers. It supports multiple programming languages and shows the output. I have implemented a json for unit tests but haven't had time to implement importing variables and code file skeletons. Excited to see where this goes!
 
 ## Features
 
