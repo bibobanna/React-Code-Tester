@@ -1,0 +1,17 @@
+[
+    {
+        "questionId": 1,
+        "tests": [
+            {
+                "name": "Test 1",
+                "input": "hello",
+                "expectedOutput": "olleh"
+            },
+            {
+                "name": "Test 2",
+                "input": "world",
+                "expectedOutput": "dlrow"
+            }
+        ]
+    }
+]

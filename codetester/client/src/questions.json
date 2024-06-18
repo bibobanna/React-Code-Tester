@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "title": "Hello World",
+        "description": "Make it print \"Hello World\".",
+        "input": "A string",
+        "output": "The reversed string"
+    }
+]
