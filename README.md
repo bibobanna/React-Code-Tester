@@ -27,7 +27,7 @@ A step-by-step guide to setting up the development environment:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/bibobanna/React-Code-Tester
+git clone https://github.com/bibobanna/React-Code-Tester.git
 ```
 2. **Navigate to the project directory:**
 ```bash
