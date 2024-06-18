@@ -1,0 +1,10 @@
+FROM python:3.8-slim
+
+# Set the working directory (optional)
+WORKDIR /app
+
+# Ensure Python won't buffer the output, so you receive it immediately
+ENV PYTHONUNBUFFERED=1
+
+# No need to COPY any files at build time
+# No CMD as you will override it at container run-time

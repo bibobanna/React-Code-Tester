@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Python",
+        "value": "python",
+        "dockerImage": "python:3.8-slim",
+        "runCommand": ["python", "-c"]
+    },
+    {
+        "name": "JavaScript",
+        "value": "javascript",
+        "dockerImage": "node:14-alpine",
+        "runCommand": ["node", "-e"]
+    }
+]
